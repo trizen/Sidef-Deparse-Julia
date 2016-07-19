@@ -1,0 +1,25 @@
+Changes
+ignore.txt
+lib/Sidef/Deparse/Julia.pm
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+README
+share/array.jl
+share/block.jl
+share/bool.jl
+share/complex.jl
+share/convert.jl
+share/hash.jl
+share/nil.jl
+share/number.jl
+share/object.jl
+share/range.jl
+share/Sidef.jl
+share/string.jl
+t/00-load.t
+t/manifest.t
+t/pod-coverage.t
+t/pod.t
+utils/test.sf
+utils/test2.sf
