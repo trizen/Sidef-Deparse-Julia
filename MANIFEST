@@ -21,5 +21,6 @@ t/00-load.t
 t/manifest.t
 t/pod-coverage.t
 t/pod.t
+utils/julia_codegen.jl
 utils/test.sf
 utils/test2.sf
